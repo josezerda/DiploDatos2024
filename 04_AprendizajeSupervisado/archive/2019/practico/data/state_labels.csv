@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 StateID,StateName
 41336,"Johor"
 41325,"Kedah"
@@ -14,3 +15,21 @@ StateID,StateName
 41342,"Sarawak"
 41326,"Selangor"
 41361,"Terengganu"
+=======
+StateID,StateName
+41336,"Johor"
+41325,"Kedah"
+41367,"Kelantan"
+41401,"Kuala Lumpur"
+41415,"Labuan"
+41324,"Melaka"
+41332,"Negeri Sembilan"
+41335,"Pahang"
+41330,"Perak"
+41380,"Perlis"
+41327,"Pulau Pinang"
+41345,"Sabah"
+41342,"Sarawak"
+41326,"Selangor"
+41361,"Terengganu"
+>>>>>>> d680e15c4f188b5b4754c69153e5362bcf298bd6

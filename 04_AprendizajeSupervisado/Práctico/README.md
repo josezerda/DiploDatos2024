@@ -26,7 +26,11 @@ Esta competencia ha sido creada a partir de un datasets sobre una recopilación 
 ## Pasos a seguir
 
 1. Crear una cuenta en kaggle.com.
+<<<<<<< HEAD
+1. Sumarse a la competencia [acá](https://www.kaggle.com/t/ab02324355724927a10210025856f985).
+=======
 1. Sumarse a la competencia [acá](https://www.kaggle.com/t/ffbd02f08a14443194f84dff7b8c2f1f).
+>>>>>>> d680e15c4f188b5b4754c69153e5362bcf298bd6
     * Hacer click en "Join Competition".
     * Aceptar las reglas.
 1. Crear un equipo (Team): El trabajo se evaluará en los grupos asignados.
